@@ -8,10 +8,9 @@ Link: https://advise-generator-app.vercel.app/
 <br>
 
 Note:
-> Built using HTML, CSS & JavaScript
+> Built using HTML, CSS, JavaScript & React
 
-> Implemented Arrow Funtions and Async Await Funtions
+> Implemented React JSX, React Custom Components, React Props and React Hooks such as useState()
 
-> Used the Advice Slip API (https://api.adviceslip.com)
 
 > Deployed the website using Vercel
