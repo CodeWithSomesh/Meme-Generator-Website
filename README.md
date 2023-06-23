@@ -10,7 +10,6 @@ Link: https://advise-generator-app.vercel.app/
 Note:
 > Built using HTML, CSS, JavaScript & React
 
-> Implemented React JSX, React Custom Components, React Props and React Hooks such as useState()
-
+> Implemented React JSX, React Custom Components, React Props, and React Hooks such as useState()
 
 > Deployed the website using Vercel
